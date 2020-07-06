@@ -1,5 +1,5 @@
 <html>
-<body>
-<h2>Hello welcome to my website all</h2>
+<body bgcolor="cyan">
+<h2><center><u>Heading</u></center></h2>
 </body>
 </html>
